@@ -69,4 +69,26 @@
 
 
 # print("amirhossein\nhajitabar")
-print("amirhossein\thajitabar")
+# print("amirhossein\thajitabar")
+
+# age = 30
+# score = 18.5
+
+# a=5
+# b=2
+
+# print(a+b)
+# print(a-b)
+# print(a*b)
+# print(a/b)
+# print(a//b)
+# print(a%b)
+
+
+money = 10_000_000
+print(money)
+
+a=5
+b=2
+
+a,b = 5,2
